@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JG9XqwOOqpFM3SESytdv+lYDPDifqMDBjrBaM/ExLIM=",
+  "Source": "ProjetoLHPets",
+  "BasePath": "_content/ProjetoLHPets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoLHPets\\wwwroot",
+      "Source": "ProjetoLHPets",
+      "ContentRoot": "C:\\Users\\alexs\\OneDrive\\Área de Trabalho\\Codificação para back\\ProjetoLHPets\\wwwroot\\",
+      "BasePath": "_content/ProjetoLHPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alexs\\OneDrive\\Área de Trabalho\\Codificação para back\\ProjetoLHPets\\wwwroot\\index.html",
+      "SourceId": "ProjetoLHPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alexs\\OneDrive\\Área de Trabalho\\Codificação para back\\ProjetoLHPets\\wwwroot\\",
+      "BasePath": "_content/ProjetoLHPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
