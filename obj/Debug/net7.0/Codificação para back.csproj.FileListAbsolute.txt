@@ -1,0 +1,5 @@
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\obj\Debug\net7.0\Codificação para back.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\obj\Debug\net7.0\Codificação para back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\obj\Debug\net7.0\Codificação para back.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\obj\Debug\net7.0\Codificação para back.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\obj\Debug\net7.0\Codificação para back.csproj.CoreCompileInputs.cache

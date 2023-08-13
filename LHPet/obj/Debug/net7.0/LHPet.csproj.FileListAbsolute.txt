@@ -1,0 +1,62 @@
+C:\C-SHARP\LHPet\bin\Debug\net7.0\appsettings.Development.json
+C:\C-SHARP\LHPet\bin\Debug\net7.0\appsettings.json
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.staticwebassets.runtime.json
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.exe
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.deps.json
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.runtimeconfig.json
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.dll
+C:\C-SHARP\LHPet\bin\Debug\net7.0\LHPet.pdb
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.csproj.AssemblyReference.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfoInputs.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfo.cs
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.csproj.CoreCompileInputs.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cs
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.build.LHPet.props
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets.build.json
+C:\C-SHARP\LHPet\obj\Debug\net7.0\staticwebassets.development.json
+C:\C-SHARP\LHPet\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\C-SHARP\LHPet\obj\Debug\net7.0\scopedcss\bundle\LHPet.styles.css
+C:\C-SHARP\LHPet\obj\Debug\net7.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.dll
+C:\C-SHARP\LHPet\obj\Debug\net7.0\refint\LHPet.dll
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.pdb
+C:\C-SHARP\LHPet\obj\Debug\net7.0\LHPet.genruntimeconfig.cache
+C:\C-SHARP\LHPet\obj\Debug\net7.0\ref\LHPet.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\appsettings.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.staticwebassets.runtime.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.deps.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.runtimeconfig.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\bin\Debug\net7.0\LHPet.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.RazorAssemblyInfo.cs
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.LHPet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.build.LHPet.props
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LHPet.props
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LHPet.props
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\scopedcss\bundle\LHPet.styles.css
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\scopedcss\projectbundle\LHPet.bundle.scp.css
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\refint\LHPet.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\LHPet.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\Codificação para back\LHPet\obj\Debug\net7.0\ref\LHPet.dll
